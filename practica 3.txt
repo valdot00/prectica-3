@@ -186,4 +186,6 @@ cols"20"
 <input type="reset"value="cancelar">
 <input type="submit" value="Guardar">
 
+<h1>pelayo arellano jorge oswaldo<h1>
+
 </form>
