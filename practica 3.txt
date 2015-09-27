@@ -1,0 +1,189 @@
+form>
+<h1> practica 3 </h1>
+
+</br>
+
+<label> nombre </label> 
+
+</br>
+
+<input type="text" name="nombre"
+size="100 maxlenyth="200">
+
+</br>
+
+<label> apellido paterno </label>
+
+</br>
+
+<input type="text" name="ap"
+size="100" maxlenyth="200">
+
+</br>
+
+<label> apellido materno </label>
+
+</br>
+
+<input type="text" name="am"
+size="100" maxlenyth="200">
+
+</br>
+
+<label> sexo </label>
+
+</br>
+
+<input type="radio" name="sx" value="M">
+<label>masculino</label>
+
+<br/>
+
+<input type="radio" name="sx" value="F">
+<label>femenino</label>
+
+</br>
+
+<label> edad </label> 
+
+</br>
+
+<select name="edad">
+<option value=""></option>
+<option value="1">20</option>
+<option value="2">21</option>
+<option value="3">22</option>
+<option value="4">23</option>
+<option value="5">24</option>
+<option value="6">25</option>
+<option value="7">26</option>
+<option value="8">27</option>
+<option value="9">28</option>
+<option value="10">29</option>
+<option value="11">30</option>
+<option value="12">31</option>
+<option value="13">32</option>
+<option value="14">33</option>
+<option value="15">34</option>
+<option value="16">35</option>
+<option value="17">36</option>
+<option value="18">37</option>
+<option value="19">38</option>
+<option value="20">39</option>
+<option value="21">40</option>
+</select>
+
+</br>
+
+<label>dominio</label>
+
+</br>
+
+<input type="text" name="dominio"
+size="100 maxlenyth="200">
+
+</br>
+
+<label>colonia</label>
+
+</br>
+
+<input type="text" name="c"
+size="100"maxlenyth="200">
+
+</br>
+
+<label> codigo postal </label>
+
+</br>
+
+<input type="text" name="cp"
+size="100"maxlenyth="200">
+
+</br>
+
+<label> estado </label>
+
+</br>
+
+<select name="estado">
+<option value=""> </option>
+<option value="1">jalisco</option>
+<option value="2">michoacan</option>
+<option value="3">tepic</option>
+<option value="4">leon</option>
+<option value="5">hidalgo</option>
+<option value="6">colima</option>
+<option value="7">durango</option>
+<option value="8">veracruz</option>
+<option value="9">aguas calientes</option>
+<option value="10">mexico </option>
+</select> 
+
+</br>
+
+<label> telefono </label>
+
+</br>
+
+<input type="text" name="t"
+size="100" maxlenyth="200">
+
+</br>
+
+<label> celular </label>
+
+</br>
+
+<input type="text" name="c"
+size="100" maxlenyth="200">
+
+</br>
+
+<label> email </label>
+
+</br>
+
+<input type="text" name="e"
+size="100" maxlenyth="200">
+
+</br>
+
+<label> educacion </label>
+
+<br/>
+
+<input type="checkbox"  name="pri" value="pri"> 
+primaria<br/>
+
+<input type="checkbox" name="sec" value="sec">
+secundaria</br>
+
+<input type="checkbox" name="pre" value="pre">
+peparatoria</br>
+
+<input type="checkbox" name="li" value="li">
+licenciatura</br>
+
+<input type="checkbox" name="ma" value="ma">
+maestria</br>
+
+<input type="checkbox" name="do" value="do">
+doctorado</br>
+
+<label> opservaciones </label>
+
+</br>
+
+<textarea name="observaciones"
+rows"10"
+cols"20"
+>
+</textarea>
+
+</br>
+
+<input type="reset"value="cancelar">
+<input type="submit" value="Guardar">
+
+</form>
